@@ -55,7 +55,7 @@ GitHub default.
 
 ## License
 
-This project is licensed under the Apache License v2.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License v2.0 - see the [LICENSE.md](CFD-Mesh-Techniques/LICENSE) file for details
 
 ## Acknowledgments
 
