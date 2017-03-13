@@ -1,6 +1,7 @@
 # Meshing Techniques for CFD
 
 Microsoft Visual Studio C++ .NET (2013) and Legacy OpenGL project to demonstrate three diferent meshing techniques for Computation Fluid Dynamics (CFD). The following three meshing algorithms are used in this project:
+
 1. Multi Surface Methods (MSM)
 2. Transfinite Interpolation (TFI)
 3. Elliptic Partial Differential Equations (PDE)
