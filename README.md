@@ -51,7 +51,7 @@ GitHub default.
 
 ## Author
 
-* Ravinder Singh
+**Ravinder Singh**
 
 ## License
 
