@@ -11,20 +11,21 @@ Further details to follow.
 
 Implemented in Microsoft Visual Studion 2013.
 
-# Project Title
+# Meshing Techniques for CFD
 
-One Paragraph of project description goes here
+Microsoft Visual Studio C++ .NET (2013) and Legacy OpenGL project to demonstrate three diferent meshing techniques for Computation Fluid Dynamics (CFD).
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Just download and open the Visual Studio Solution file with extension "sln" from within the Visual Studion.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+The project depends on the following system libraries.
 
 ```
-Give examples
+OpenGL32.lib
+
 ```
 
 ### Installing
