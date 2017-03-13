@@ -27,8 +27,8 @@ Install Visual Studio 2013 or higher, build the project from within the Visual S
 In case, there are build errors for "Entry Point" implement the following steps
 
 ```
-Project Properties > Linker > Advanced > Entry Point  = Main
-Project Properties > Linker > System > SubSystem = Windows(/SUBSYSTEM:WINDOWS)
+Project Properties > Linker > Advanced > Entry Point    = Main
+Project Properties > Linker > System > SubSystem        = Windows(/SUBSYSTEM:WINDOWS)
 ```
 
 ## Deployment
