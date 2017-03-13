@@ -47,13 +47,11 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+GitHub default.
 
 ## Authors
 
-* **Ravinder Singh** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Ravinder Singh** - *Initial work* 
 
 ## License
 
@@ -61,7 +59,5 @@ This project is licensed under the Apache License v2.0 - see the [LICENSE.md](LI
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-http://www.bris.ac.uk/engineering/people/christian-b-allen/index.html
+* [Chistian B. Allen](http://www.bris.ac.uk/engineering/people/christian-b-allen/index.html)
+* [Purple Booth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
