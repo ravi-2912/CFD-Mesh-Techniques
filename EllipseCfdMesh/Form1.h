@@ -1,8 +1,4 @@
 #pragma once
-//#pragma comment(lib,"myopengl32.lib")
-//#pragma comment(lib,"myglu32.lib")
-//#pragma comment(lib,"mygdi32.lib")
-//#pragma comment(lib,"myuser32.lib")
 #pragma comment(lib,"opengl32.lib")
 #pragma comment(lib,"glu32.lib")
 #pragma comment(lib,"gdi32.lib")
