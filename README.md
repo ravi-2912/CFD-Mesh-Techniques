@@ -19,6 +19,7 @@ OpenGL32.lib
 Glu32.lib
 Gdi32.lib
 USer32.lib
+And applicable dotNet Framework
 ```
 
 ### Installing
@@ -37,9 +38,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Microsoft Visual Studio](https://www.visualstudio.com/) 
+* [Windows SDK](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
 
 ## Contributing
 
@@ -51,16 +51,17 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ravinder Singh** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License v2.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+http://www.bris.ac.uk/engineering/people/christian-b-allen/index.html
