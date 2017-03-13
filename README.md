@@ -18,7 +18,7 @@ The project depends on the following system libraries.
 OpenGL32.lib
 Glu32.lib
 Gdi32.lib
-USer32.lib
+User32.lib
 And applicable dotNet Framework
 ```
 
@@ -49,9 +49,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 GitHub default.
 
-## Authors
+## Author
 
-* **Ravinder Singh** - *Initial work* 
+* Ravinder Singh
 
 ## License
 
