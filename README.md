@@ -34,7 +34,7 @@ Project Properties > Linker > System > SubSystem        = Windows(/SUBSYSTEM:WIN
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+At the moment it can be used as standalone executable as long as you have the dependencies and the build environment.
 
 ## Built With
 
