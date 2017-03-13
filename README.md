@@ -1,23 +1,13 @@
-# CFD-Mesh-Techniques
-Mesh techniques for an ellipse for purpose of CFD.
-
-The following meshing techniques are demosntrated in this program
-
-1. Multi Surface Methods (MSM)
-2. Transfinite Interpolation (TFI)
-3. Elliptic Partial Differential Equatins (PDE)
-
-Further details to follow.
-
-Implemented in Microsoft Visual Studion 2013.
-
 # Meshing Techniques for CFD
 
-Microsoft Visual Studio C++ .NET (2013) and Legacy OpenGL project to demonstrate three diferent meshing techniques for Computation Fluid Dynamics (CFD).
+Microsoft Visual Studio C++ .NET (2013) and Legacy OpenGL project to demonstrate three diferent meshing techniques for Computation Fluid Dynamics (CFD). The following three meshing algorithms are used in this project:
+1. Multi Surface Methods (MSM)
+2. Transfinite Interpolation (TFI)
+3. Elliptic Partial Differential Equations (PDE)
 
 ## Getting Started
 
-Just download and open the Visual Studio Solution file with extension "sln" from within the Visual Studion.
+Just download and open the Visual Studio Solution file with extension "sln" from within the Visual Studio.
 
 ### Prerequisites
 
@@ -25,14 +15,15 @@ The project depends on the following system libraries.
 
 ```
 OpenGL32.lib
-
+Glu32.lib
+Gdi32.lib
+USer32.lib
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Install Visual Studio 2013 or higher. Build the project from within the Visual Studio and it should start running.
+In case, there are build errors for "Entry Point" implement the following steps
 
 ```
 Give the example
