@@ -6,6 +6,8 @@ Microsoft Visual Studio C++ .NET (2013) and Legacy OpenGL project to demonstrate
 2. Transfinite Interpolation (TFI)
 3. Elliptic Partial Differential Equations (PDE)
 
+For **Screenshots** - goto [wiki](https://github.com/ravi-2912/CFD-Mesh-Techniques/wiki)
+
 ## Getting Started
 
 Just download and open the Visual Studio Solution file with extension "sln" from within the Visual Studio.
