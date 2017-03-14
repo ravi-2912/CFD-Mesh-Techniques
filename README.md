@@ -10,7 +10,7 @@ Microsoft Visual Studio C++ .NET (2013) and Legacy OpenGL project to demonstrate
 
 ## Getting Started
 
-Just download and open the Visual Studio Solution file with extension '''.sln''' from within the Visual Studio.
+Just download and open the Visual Studio Solution file with extension ```.sln``` from within the Visual Studio.
 
 ### Prerequisites
 
