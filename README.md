@@ -27,7 +27,7 @@ And applicable dotNet Framework
 ### Installing
 
 Install Visual Studio 2013 or higher, build the project from within the Visual Studio and it should start running.
-In case, there are build errors for "Entry Point" implement the following steps
+In case, there are build errors for ```Entry Point``` implement the following steps
 
 ```
 Project Properties > Linker > Advanced > Entry Point    = Main
