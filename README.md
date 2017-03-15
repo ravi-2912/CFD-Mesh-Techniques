@@ -63,3 +63,4 @@ This project is licensed under the Apache License v2.0 - see the [LICENSE.md](ht
 
 * [Chistian B. Allen](http://www.bris.ac.uk/engineering/people/christian-b-allen/index.html)
 * [Purple Booth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [NeHe Productions](http://nehe.gamedev.net/tutorial/arcball_rotation/19003/)
